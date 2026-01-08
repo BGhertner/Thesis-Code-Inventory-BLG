@@ -1,0 +1,6 @@
+.vscode/
+*.print
+*.o
+*.mod
+*.f90
+.DS_Store
